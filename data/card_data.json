@@ -2,12 +2,12 @@
   "players": [
     {
       "player_id": 1803,
-      "player_name": "Altay Bayındır",
+      "player_name": "Altay Bay\u0131nd\u0131r",
       "club": "Manchester United",
       "position": "Goalkeeper",
       "number": 1,
-      "nationality": "Türkiye",
-      "flag": "🇹🇷",
+      "nationality": "T\u00fcrkiye",
+      "flag": "\ud83c\uddf9\ud83c\uddf7",
       "overall": 90,
       "image": "Images/Players/Altay Bayindir.png",
       "matches": [
@@ -1250,7 +1250,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/8meai71770993191.jpg",
+      "tsdb_id": "34176261"
     },
     {
       "player_id": 1792,
@@ -1258,8 +1260,8 @@
       "club": "Manchester United",
       "position": "Forward",
       "number": 16,
-      "nationality": "Côte d'Ivoire",
-      "flag": "🇨🇮",
+      "nationality": "C\u00f4te d'Ivoire",
+      "flag": "\ud83c\udde8\ud83c\uddee",
       "overall": 90,
       "image": "Images/Players/Amad Diallo.png",
       "matches": [
@@ -2363,11 +2365,13 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/f8maua1706525745.jpg",
+      "tsdb_id": "34173019"
     },
     {
       "player_id": 4827,
-      "player_name": "André Onana",
+      "player_name": "Andr\u00e9 Onana",
       "club": "Manchester United",
       "position": "Player",
       "number": "",
@@ -2450,7 +2454,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/5vrqyp1558201522.jpg",
+      "tsdb_id": "34167122"
     },
     {
       "player_id": 1804,
@@ -2459,7 +2465,7 @@
       "position": "Defender",
       "number": 26,
       "nationality": "England",
-      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
       "overall": 90,
       "image": "Images/Players/Ayden Heaven.png",
       "matches": [
@@ -3724,16 +3730,18 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/xrtzyr1742156158.jpg",
+      "tsdb_id": "34244626"
     },
     {
       "player_id": 4120,
-      "player_name": "Benjamin Šeško",
+      "player_name": "Benjamin \u0160e\u0161ko",
       "club": "Manchester United",
       "position": "Forward",
       "number": 30,
       "nationality": "Slovenia",
-      "flag": "🇸🇮",
+      "flag": "\ud83c\uddf8\ud83c\uddee",
       "overall": 90,
       "image": "Images/Players/Benjamin Sesko.png",
       "matches": [
@@ -4913,7 +4921,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/l7hcze1637771177.jpg",
+      "tsdb_id": "34192206"
     },
     {
       "player_id": 1794,
@@ -4922,7 +4932,7 @@
       "position": "Midfielder",
       "number": 8,
       "nationality": "Portugal",
-      "flag": "🇵🇹",
+      "flag": "\ud83c\uddf5\ud83c\uddf9",
       "overall": 90,
       "image": "Images/Players/Bruno Fernandes.png",
       "matches": [
@@ -6153,7 +6163,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/1kfayc1700821747.jpg",
+      "tsdb_id": "34163007"
     },
     {
       "player_id": 1796,
@@ -6162,7 +6174,7 @@
       "position": "Forward",
       "number": 19,
       "nationality": "Cameroon",
-      "flag": "🇨🇲",
+      "flag": "\ud83c\udde8\ud83c\uddf2",
       "overall": 90,
       "image": "Images/Players/Bryan Mbeumo.png",
       "matches": [
@@ -7310,7 +7322,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/ntsyk71608410198.jpg",
+      "tsdb_id": "34173594"
     },
     {
       "player_id": 1793,
@@ -7319,7 +7333,7 @@
       "position": "Midfielder",
       "number": 18,
       "nationality": "Brazil",
-      "flag": "🇧🇷",
+      "flag": "\ud83c\udde7\ud83c\uddf7",
       "overall": 90,
       "image": "Images/Players/Casemiro.png",
       "matches": [
@@ -8585,7 +8599,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/0g0bxh1706525357.jpg",
+      "tsdb_id": "34146573"
     },
     {
       "player_id": 1795,
@@ -8594,7 +8610,7 @@
       "position": "Midfielder",
       "number": 2,
       "nationality": "Portugal",
-      "flag": "🇵🇹",
+      "flag": "\ud83c\uddf5\ud83c\uddf9",
       "overall": 90,
       "image": "Images/Players/Diogo Dalot.png",
       "matches": [
@@ -9856,7 +9872,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/0rv14y1706525697.jpg",
+      "tsdb_id": "34163536"
     },
     {
       "player_id": 4118,
@@ -9865,7 +9883,7 @@
       "position": "Defender",
       "number": 5,
       "nationality": "England",
-      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
       "overall": 90,
       "image": "Images/Players/Harry Maguire.png",
       "matches": [
@@ -10709,7 +10727,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/8gov1b1770993938.jpg",
+      "tsdb_id": "34145892"
     },
     {
       "player_id": 1798,
@@ -10718,7 +10738,7 @@
       "position": "Forward",
       "number": 11,
       "nationality": "Netherlands",
-      "flag": "🇳🇱",
+      "flag": "\ud83c\uddf3\ud83c\uddf1",
       "overall": 90,
       "image": "Images/Players/Joshua Zirkzee.png",
       "matches": [
@@ -11936,7 +11956,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/89ei0i1592732470.jpg",
+      "tsdb_id": "34169129"
     },
     {
       "player_id": 1802,
@@ -11945,7 +11967,7 @@
       "position": "Midfielder",
       "number": 37,
       "nationality": "England",
-      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
       "overall": 90,
       "image": "Images/Players/Kobbie Mainoo.png",
       "matches": [
@@ -13019,7 +13041,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/h66a4l1696149845.jpg",
+      "tsdb_id": "34221702"
     },
     {
       "player_id": 1789,
@@ -13028,7 +13052,7 @@
       "position": "Defender",
       "number": 15,
       "nationality": "France",
-      "flag": "🇫🇷",
+      "flag": "\ud83c\uddeb\ud83c\uddf7",
       "overall": 90,
       "image": "Images/Players/Leny Yoro.png",
       "matches": [
@@ -14308,16 +14332,18 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/3b4fj41770993817.jpg",
+      "tsdb_id": "34200629"
     },
     {
       "player_id": 1800,
-      "player_name": "Lisandro Martínez",
+      "player_name": "Lisandro Mart\u00ednez",
       "club": "Manchester United",
       "position": "Defender",
       "number": 6,
       "nationality": "Argentina",
-      "flag": "🇦🇷",
+      "flag": "\ud83c\udde6\ud83c\uddf7",
       "overall": 90,
       "image": "Images/Players/Lisandro Martinez.png",
       "matches": [
@@ -14962,7 +14988,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/62xrby1770994011.jpg",
+      "tsdb_id": "34167150"
     },
     {
       "player_id": 1791,
@@ -14971,7 +14999,7 @@
       "position": "Defender",
       "number": 23,
       "nationality": "England",
-      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
       "overall": 90,
       "image": "Images/Players/Luke Shaw.png",
       "matches": [
@@ -16300,7 +16328,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/wbet0c1770994226.jpg",
+      "tsdb_id": "34145673"
     },
     {
       "player_id": 1806,
@@ -16309,7 +16339,7 @@
       "position": "Midfielder",
       "number": 25,
       "nationality": "Uruguay",
-      "flag": "🇺🇾",
+      "flag": "\ud83c\uddfa\ud83c\uddfe",
       "overall": 90,
       "image": "Images/Players/Manuel Ugarte.png",
       "matches": [
@@ -17607,7 +17637,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/pehyss1770994303.jpg",
+      "tsdb_id": "34200549"
     },
     {
       "player_id": 1797,
@@ -17616,7 +17648,7 @@
       "position": "Midfielder",
       "number": 7,
       "nationality": "England",
-      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
       "overall": 90,
       "image": "Images/Players/Mason Mount.png",
       "matches": [
@@ -18570,7 +18602,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/ls60ix1706526080.jpg",
+      "tsdb_id": "34169813"
     },
     {
       "player_id": 4119,
@@ -18579,7 +18613,7 @@
       "position": "Forward",
       "number": 10,
       "nationality": "Brazil",
-      "flag": "🇧🇷",
+      "flag": "\ud83c\udde7\ud83c\uddf7",
       "overall": 90,
       "image": "Images/Players/Matheus Cunha.png",
       "matches": [
@@ -19810,7 +19844,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/1nt1i61770993321.jpg",
+      "tsdb_id": "34169290"
     },
     {
       "player_id": 1790,
@@ -19819,7 +19855,7 @@
       "position": "Defender",
       "number": 4,
       "nationality": "Netherlands",
-      "flag": "🇳🇱",
+      "flag": "\ud83c\uddf3\ud83c\uddf1",
       "overall": 90,
       "image": "Images/Players/Matthijs De Ligt.png",
       "matches": [
@@ -20359,7 +20395,7 @@
       "position": "Defender",
       "number": 3,
       "nationality": "Morocco",
-      "flag": "🇲🇦",
+      "flag": "\ud83c\uddf2\ud83c\udde6",
       "overall": 90,
       "image": "Images/Players/Noussair Mazraoui.png",
       "matches": [
@@ -21193,7 +21229,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/v9qusz1770994162.jpg",
+      "tsdb_id": "34167124"
     },
     {
       "player_id": 1801,
@@ -21202,7 +21240,7 @@
       "position": "Midfielder",
       "number": 13,
       "nationality": "Denmark",
-      "flag": "🇩🇰",
+      "flag": "\ud83c\udde9\ud83c\uddf0",
       "overall": 90,
       "image": "Images/Players/Patrick Dorgu.png",
       "matches": [
@@ -22133,7 +22171,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/wk0t7s1738527913.jpg",
+      "tsdb_id": "34220127"
     },
     {
       "player_id": 1788,
@@ -22142,7 +22182,7 @@
       "position": "Goalkeeper",
       "number": 31,
       "nationality": "Belgium",
-      "flag": "🇧🇪",
+      "flag": "\ud83c\udde7\ud83c\uddea",
       "overall": 90,
       "image": "Images/Players/Senne lammens.png",
       "matches": [
@@ -23337,7 +23377,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/40kl8b1623838557.jpg",
+      "tsdb_id": "34183209"
     },
     {
       "player_id": 4648,
@@ -23346,7 +23388,7 @@
       "position": "Goalkeeper",
       "number": 22,
       "nationality": "England",
-      "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+      "flag": "\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f",
       "overall": 90,
       "image": "Images/Players/Tom Heaton.png",
       "matches": [
@@ -23498,7 +23540,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/qvsjlt1713182159.jpg",
+      "tsdb_id": "34146027"
     },
     {
       "player_id": 1805,
@@ -23507,7 +23551,7 @@
       "position": "Defender",
       "number": 12,
       "nationality": "Netherlands",
-      "flag": "🇳🇱",
+      "flag": "\ud83c\uddf3\ud83c\uddf1",
       "overall": 90,
       "image": "Images/Players/Tyrell Malacia.png",
       "matches": [
@@ -24368,7 +24412,9 @@
             "penalty_save": 0.0
           }
         }
-      ]
+      ],
+      "tsdb_image": "https://r2.thesportsdb.com/images/media/player/thumb/gait501658259821.jpg",
+      "tsdb_id": "34170460"
     }
   ],
   "stat_labels": {
